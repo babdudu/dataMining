@@ -19,13 +19,6 @@ ENV/
 .env
 .env.*
 
-# Windows virtual environment layout (py -m venv at repo root)
-Include/
-Lib/
-Scripts/
-pyvenv.cfg
-pip-selfcheck.json
-
 # IDE settings
 .vscode/
 .idea/

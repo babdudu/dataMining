@@ -19,6 +19,10 @@ ENV/
 .env
 .env.*
 
+
+# Dataset
+Input/
+
 # IDE settings
 .vscode/
 .idea/
